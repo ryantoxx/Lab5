@@ -45,7 +45,7 @@ gets his certain meal.
 10. Cheff might not start cooking meal, because there are missing certain ingredients.
 
 ## Updates
-1.Sommelier is not providing the menu to people that are not older than 20 years.
+1.Sommelier is not providing the hard menu to people that are not older than 20 years.
 
 2.Hostess is providing information whether the Restaurant is full or not. 
 
